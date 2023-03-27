@@ -1,0 +1,44 @@
+div {
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+}
+
+table {
+    align-self: center;
+
+}
+
+#fcell {
+    border: 20px solid #ffffff;
+    background-color: #247ba0;
+    height: 500px;
+    width: 300px;
+}
+
+#scell {
+    border: 20px solid #ffffff;
+    background-color: #70c1b3;
+    height: 500px;
+    width: 300px;
+}
+
+#tcell {
+    border: 20px solid #ffffff;
+    background-color: #b2dbbf;
+    height: 500px;
+    width: 300px;
+}
+
+#focell {
+    border: 20px solid #ffffff;
+    background-color: #f3ffbd;
+    height: 500px;
+    width: 300px;
+}
+
+#fthcell {
+    border: 20px solid #ffffff;
+    background-color: #ff1654;
+    height: 500px;
+    width: 300px;
+}
