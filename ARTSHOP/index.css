@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(109, 130, 226);
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.body {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    flex-direction: column;
+    display: list-item;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+img {
+    margin: 4px;
+    border-radius: 5%;
+    height: 400px;
+    width: 300px;
+}
