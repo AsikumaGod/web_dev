@@ -1,0 +1,13 @@
+.one{
+    align-self: center;
+    text-align: center;
+    border: 1px thin;
+    background-color: aqua;
+}
+td{
+    height: 150px;
+    width: 130px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 100px;
+}
