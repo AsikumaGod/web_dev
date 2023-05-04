@@ -5,3 +5,17 @@
     background-color: lightgrey;
     color: brown;
 }
+a{
+    text-decoration: none;
+border: 1px solid black;
+border-radius: 5px;
+font-size: 25px;
+padding: 8px 16px;
+background-color: pink;
+text-align: center;
+align-content: center;
+width: 70%;
+}
+a:hover{
+    background-color: blue;
+}
