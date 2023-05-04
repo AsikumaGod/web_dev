@@ -1,0 +1,1 @@
+This is my first Js project when I started learning DOM, at least I tried

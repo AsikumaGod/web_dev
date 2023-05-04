@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+}
+button{
+    border: 2px solid green;
+    padding: 3px;
+    border-radius: 5px;
+    color: chartreuse;
+    background: blue;
+    cursor: pointer;
+}
